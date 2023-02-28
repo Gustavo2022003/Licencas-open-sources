@@ -17,9 +17,9 @@
 >	- [Licença do MIT](#licença-do-mit)
 >	- [Licença do Apache 2.0](#licença-apache-20)
 >	- [Licença GPL (Também conhecida como GNU General Public License v3.0)](#licença-gpl-também-conhecida-como-gnu-general-public-license-v30)
->	- [Licença BSD(cláusula 2)](#cláusula-2)
->	- [Licença BSD(cláusula 3)](#cláusula-3)
->	- [Licença BSD(cláusula 4)](#cláusula-4)
+>	- [Licença BSD (cláusula 2)](#cláusula-2)
+>	- [Licença BSD (cláusula 3)](#cláusula-3)
+>	- [Licença BSD (cláusula 4)](#cláusula-4)
 
 # TL;DR - A licença de cláusula BSD 3 deve fazer
 Se você está publicando um pedaço de código que deseja distribuir o máximo possível, talvez com outras pessoas ajudando você com o código, garantindo que você não seja processado e também garantindo que seu nome ou o nome de sua empresa não sejam usados por outras pessoas sem sua permissão, então a licença BSD 3 cláusulas é exatamente o que você precisa. Você pode achar isso no [final desse documento](#3-clausula).
